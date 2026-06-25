@@ -19,3 +19,4 @@ To execute unit tests with the [Karma](https://karma-runner.github.io) test runn
 ```bash
 ng test
 ```
+![Uploading Screenshot 2026-06-25 at 08.27.56.png…]()
