@@ -19,5 +19,4 @@ To execute unit tests with the [Karma](https://karma-runner.github.io) test runn
 ```bash
 ng test
 ```
-<img width="1792" height="1120" alt="Screenshot 2026-06-25 at 08 28 53" src="https://github.com/user-attachments/assets/4d8028b2-23c2-47ee-8ad4-c6423d135b2e" />
-
+<img width="1792" height="1120" alt="Screenshot 2026-06-25 at 08 30 01" src="https://github.com/user-attachments/assets/c58dc29e-b7e7-48f4-9f33-abd69ef7c04c" />
