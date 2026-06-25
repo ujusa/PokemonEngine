@@ -18,7 +18,7 @@
 ### Clone the repository
 
 ```bash
-git clone < https://github.com/ujusa/PokemonEngine.git>
+git clone https://github.com/ujusa/PokemonEngine.git
 cd engine
 ```
 
